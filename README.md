@@ -1,4 +1,4 @@
-# _Auto ML_
+# _AutoMaven_
 
 Hi, Thanks for your interest.
 
@@ -31,37 +31,6 @@ Provides evaluation metrics such as Mean Square Error, Mean Absolute Error, R2 S
 Enables users to download cleaned or reduced data and trained models in the form of pickle files.
 Allows prediction and classification for new data points using selected algorithms.
 
-### _Steps to Execute:_
-
-1 Visit the web application at the following link:  https://automl-77tgcts4pkqowntarw5tbg.streamlit.app/
-
-2 Choose the dataset file in either .xlsx or .csv format.
-
-3 Upload the dataset and configure parameters as per your requirements.
-
-4 The system will process the data in the background using Machine Learning algorithms.
-
-5 Follow on-screen instructions to navigate through the various steps of the Auto ML process.
-
-
-### Clone the Project:
-
-To clone the project and run it locally, follow these steps:
-
-1.Clone the repository from GitHub  :
-    git clone <repository_url>
-```bash
- git clone https://github.com/Ashwanth12/Auto_Ml.git
-```
-2.Navigate to the project directory:
-```bash
-    cd Auto-ML
-```
- 
-3.Install dependencies:
-  ```bash
-    pip install -r requirements.txt
-```  
 4.Run the application:
 ```bash
     streamlit run main.py
