@@ -26,13 +26,3 @@ Supervised Machine Learning: Users select problem type (regression or classifica
 Algorithms available for regression include linear regression, polynomial regression, KNN Regression, Decision Tree, Random Forest, Naive Bayes, etc.
 Algorithms available for classification include Logistic regression, KNN Regression, Decision Tree, Random Forest, Naive Bayes, Support Vector Machine, Ada Boost, etc.
 Provides evaluation metrics such as Mean Square Error, Mean Absolute Error, R2 Score for regression, and precision, recall, F1 score for classification.
-### Download:
-
-Enables users to download cleaned or reduced data and trained models in the form of pickle files.
-Allows prediction and classification for new data points using selected algorithms.
-
-4.Run the application:
-```bash
-    streamlit run main.py
-```
-    
